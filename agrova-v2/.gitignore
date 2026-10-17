@@ -1,5 +1,0 @@
-storage/*
-!storage/.gitkeep
-.env
-node_modules/
-.DS_Store

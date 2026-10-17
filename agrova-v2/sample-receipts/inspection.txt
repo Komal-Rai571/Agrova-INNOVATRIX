@@ -1,9 +1,0 @@
-GREEN VALLEY FPO - DELIVERY INSPECTION (DEMO)
-Date: 2026-10-17
-Lot: LOT-002
-Delivered: 30 kg
-Accepted: 28 kg
-Rejected: 2 kg
-Rate: 16 INR per kg
-Deductions: 0 INR
-Signed: Collection manager (sample only)

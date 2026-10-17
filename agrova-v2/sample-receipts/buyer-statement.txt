@@ -1,9 +1,0 @@
-SAUCEWORKS - BUYER STATEMENT (DEMO)
-Date: 2026-10-17
-Lot: LOT-002
-Delivered: 30 kg
-Accepted: 25 kg
-Rejected: 5 kg
-Rate: 16 INR per kg
-Deductions: 0 INR
-Signed: Receiving clerk (sample only)
