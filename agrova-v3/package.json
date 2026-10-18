@@ -1,8 +1,8 @@
 {
-  "name": "agrova-v3",
-  "version": "3.0.0",
+  "name": "agrova-v3.1",
+  "version": "3.1.0",
   "private": true,
-  "description": "Agrova Crop Recovery, Supply Fulfillment and Settlement OS: zero-dependency runnable prototype",
+  "description": "Agrova V3.1: free local FPO registration, email verification, private farmer workspaces and mobile-responsive operations",
   "type": "module",
   "scripts": {
     "start": "node --env-file-if-exists=.env --no-warnings server.mjs",
@@ -10,5 +10,7 @@
     "test": "node --test tests/*.test.mjs",
     "smoke": "node scripts/smoke-test.mjs"
   },
-  "engines": {"node": ">=22"}
+  "engines": {
+    "node": ">=22"
+  }
 }
