@@ -29,4 +29,4 @@ Development Roadmap
 - V3: Shortage fulfillment, net recovery comparison, quality passport, and farmer ledger
 Team
 INNOVATRIX — Hackathon Project
-Recover smarter. Fulfill better. Settle transparently.
+Recover smarter. Fulfill better. Settle.
